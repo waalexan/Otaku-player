@@ -27,7 +27,7 @@ namespace Otaku_Player
 
         private void gunaButton1_Click(object sender, EventArgs e)
         {
-
+oi
         }
 
         private void bunifuImageButton4_Click(object sender, EventArgs e)
