@@ -1,0 +1,18 @@
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\bin\Debug\Otaku Player.exe.config
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\bin\Debug\Otaku Player.exe
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\bin\Debug\Otaku Player.pdb
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\bin\Debug\Guna.UI.dll
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\bin\Debug\Guna.UI2.dll
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\obj\Debug\Otaku Player.csprojResolveAssemblyReference.cache
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\obj\Debug\Otaku_Player.Form1.resources
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\obj\Debug\Otaku_Player.Properties.Resources.resources
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\obj\Debug\Otaku Player.csproj.GenerateResource.Cache
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\obj\Debug\Otaku Player.exe
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\obj\Debug\Otaku Player.pdb
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\obj\Debug\Otaku Player.csproj.ResolveComReference.cache
+C:\Users\Walter\Desktop\Otaku Player\Otaku Player\obj\Debug\Otaku_Player.Form2.resources
